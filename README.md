@@ -28,4 +28,4 @@ CSE student at MITE(CGPA 9.15, Class of 2029) and Vidyadhan Scholar — one of o
 [![](https://komarev.com/ghpvc/?username=Shabareesh390&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
-📫 Open to early internship opportunities in mobile development or applied AI.
+📫 Open to early internship opportunities in mobile and Web App development or applied AI.
